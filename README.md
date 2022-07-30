@@ -1,7 +1,7 @@
 ## ⚡ Painel WEB - A.I ⚡
 ## 🏆 Premium Version 🏆
 
-## Instalação Bloqueada
+## 🚫 Instalação Bloqueada 🚫
 
 * 📄 Adquira uma Licença Premium
 
