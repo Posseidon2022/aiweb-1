@@ -6,8 +6,8 @@
 * 📄 Adquira uma Licença Premium
 
 🔗 Link » https://t.me/+9i2TsedXBWw2MGE5
-├ ⏱ Até: 06/08/2022 02:28
-└ 📬 Modo de aprovação: Sim
+⏱ Até: 06/08/2022 02:28
+📬 Modo de aprovação: Sim
 
 * 🐱‍💻 Instalação
 * ⚡ Painel WEB - A.I ⚡ x86/x64bits
