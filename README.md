@@ -9,27 +9,5 @@
 ⏱ Até: 06/08/2022 02:28
 📬 Modo de aprovação: Sim
 
-* 🐱‍💻 Instalação
-* ⚡ Painel WEB - A.I ⚡ x86/x64bits
-
-```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/ubuinst3.sh)
-```
-
-* 🐱‍💻 Instalação
-* ⚡ Painel WEB - A.I ⚡ DB CONECTA 4g
-```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/bancoconecta.sh)
-```
-
-* ♻️ Sincronização
-* ⚡ Painel WEB - A.I ⚡x86/x64bits
-```
-wget http://raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
-```
-
-* ♻️ Sincronizando
-* ⚡ Painel WEB - A.I ⚡ARM
-```
-wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
-```
+<img src="https://i.ibb.co/YD7Js0v/download.png)" alt="Git Gone Day"/>
+# My Project - My Thoughts
